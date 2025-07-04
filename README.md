@@ -17,7 +17,7 @@ Sou Diego Antônio Bueno Vitor, estudante de Análise e Desenvolvimento de Siste
 🧪 Versionamento: Git & GitHub
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-abuv&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-abuv&layout=compact&theme=gotham&v=2)
 
 ### 🌐 Onde me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daiygo.png/)
